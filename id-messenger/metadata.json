@@ -1,6 +1,0 @@
-{
-  "name": "ID Messenger",
-  "description": "아이디 기반 회원가입, 로그인 및 실시간 1:1 메시지 채팅 애플리케이션",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
